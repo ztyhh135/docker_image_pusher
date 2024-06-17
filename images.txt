@@ -1,2 +1,1 @@
-infiniflow/ragflow:dev
-infiniflow/ragflow:v0.7.0
+xprobe/xinference:latest
