@@ -1,1 +1,1 @@
-xprobe/xinference:latest
+lissettecarlr/openai-web-streamlit:v0.2
