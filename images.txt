@@ -1,1 +1,8 @@
-lissettecarlr/openai-web-streamlit:v0.2
+xprobe/xinference:latest
+infiniflow/ragflow:latest
+pgvector/pgvector:0.7.0-pg15
+mongo:5.0.18
+ghcr.io/labring/fastgpt-sandbox:latest
+ghcr.io/labring/fastgpt:latest
+mysql:8.0.36
+ghcr.io/songquanpeng/one-api:latest
