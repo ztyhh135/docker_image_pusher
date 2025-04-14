@@ -1,10 +1,1 @@
-#xprobe/xinference:latest
-#infiniflow/ragflow:latest
-#pgvector/pgvector:0.7.0-pg15
-#mongo:5.0.18
-#ghcr.io/labring/fastgpt-sandbox:latest
-#ghcr.io/labring/fastgpt:latest
-#mysql:8.0.36
-#ghcr.io/songquanpeng/one-api:latest
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-infiniflow/ragflow:dev
+milvusdb/milvus:v2.4.4-20240531-8e7f36d9-arm64
