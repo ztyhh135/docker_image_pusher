@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.4-20240531-8e7f36d9-arm64
+arm64v8/ubuntu:20.04
