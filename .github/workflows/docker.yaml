@@ -107,9 +107,7 @@ jobs:
             fi
         
             echo "docker pull $line"
-            sudo apt - get install qemu qemu - user - static binfmt - support
-            docker run --rm --privileged multiarch/qemu - user - static --reset -p yes
-            docker pull $line 
+            docker pull $line
             platform=$(echo "$line" | awk -F'--platform[ =]' '{if (NF>1) print $2}' | awk '{print $1}')
             echo "platform is $platform"
             # 如果存在架构信息 将架构信息拼到镜像名称前面
